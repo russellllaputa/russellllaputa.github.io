@@ -14,4 +14,3 @@ zhihu:
 bibtex: /bibtex/bvivideo.txt
 authors: Ruirui Lin, Nantheera Anantrasirichai, <strong>Guoxi Huang </strong>, Joanne Lin, Qi Sun, Alexandra Malyugina, David R Bull 
 ---
-A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement
