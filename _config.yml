@@ -93,5 +93,5 @@ exclude:
 
 deploy:
   type: git
-  repo: https://github.com/caiyuanhao1998/caiyuanhao1998.github.io
-  branch: master
+  repo: https://github.com/russellllaputa/russellllaputa.github.io
+  branch: main
